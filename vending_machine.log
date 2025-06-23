@@ -1,0 +1,12 @@
+[LOG 2025-06-22 22:54:31] Vending Machine inicializada.
+[LOG 2025-06-22 22:54:31] Productos cargados.
+[LOG 2025-06-22 22:54:31] Intentando procesar compra de: Coca-Cola 500ml con dinero: 7.000000
+[LOG 2025-06-22 22:54:31] Compra exitosa: Coca-Cola 500ml. Cambio: 1.000000
+[LOG 2025-06-22 22:54:31] Intentando procesar compra de: Coca-Cola 500ml con dinero: 6.500000
+[LOG 2025-06-22 22:54:31] Compra exitosa: Coca-Cola 500ml. Cambio: 0.500000
+[LOG 2025-06-22 22:54:31] Intentando procesar compra de: Papitas Lays con dinero: 2.000000
+[LOG 2025-06-22 22:54:31] Error: Dinero insuficiente para 'Papitas Lays'. Necesita Bs.4.000000
+[LOG 2025-06-22 22:54:31] Intentando procesar compra de: Agua 500ml con dinero: 10.000000
+[LOG 2025-06-22 22:54:31] Compra exitosa: Agua 500ml. Cambio: 5.000000
+[LOG 2025-06-22 22:54:31] Intentando procesar compra de: Coca-Cola 500ml con dinero: 10.000000
+[LOG 2025-06-22 22:54:31] Compra exitosa: Coca-Cola 500ml. Cambio: 4.000000
