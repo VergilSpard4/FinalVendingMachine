@@ -56,7 +56,8 @@ El proyecto se puede expandir con más características, como la gestión de inv
 Sin embargo me faltó profundizar en los temas para agregar esas características.
 #############################################################################################################################################################################################################################################
 Edit:
-Este proyecto es una simulación de una máquina expendedora escrita en C++.
+Este proyecto es una SIMULACIÓN de una máquina expendedora escrita en C++.
+Es decir, el código realiza los pasos de un usuario y de la máquina expendedora.
 Ha sido mejorado para cumplir con los requisitos de este proyecto final de programación superior con Estructuras de Datos, Gestión de Errores y Concurrencia.
 La máquina expendedora permite a los usuarios seleccionar productos, ingresar dinero y recibir el producto seleccionado si tienen suficiente saldo.
 
